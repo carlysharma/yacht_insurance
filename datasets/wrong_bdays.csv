@@ -1,0 +1,25 @@
+,Policy Number,New/Renl/Endt/Canc/Flat,Date of Birth,Married yes/no,Years Exp.,Occupation,Mailing State,Policy Eff-Date,Endo Eff-Date,Policy/Endo Canc Eff-Date,Builder,Year Built,Construction,Length,Hull Type,Hull Limit,Power Type,# Engines,Mooring State,Mooring County,Mooring ZIP code,DOB_year
+316,nypcaf000637,new,12/14/2020,yes,55.0,retired,california,12/01/2016,,,other,1989.0,fiberglass,36.0,monohull sail," $ 100,000.00 ",inboard,1.0,ca,marin,94968,2020
+538,nypcaf000858,new,12/14/2020,not reported,10.0,self employed,texas,03/21/2017,,,other,2006.0,fiberglass,42.0,express cruiser," $ 160,000.00 ",i/o,2.0,guerrero,mexico,,2020
+676,nypcaf000989,new,12/14/2020,yes,50.0,not reported,california,04/17/2017,,,other,1984.0,wood,48.0,monohull sail," $ 575,000.00 ",inboard,1.0,ca,san diego,92106,2020
+707,nypcah001020,new,12/14/2020,yes,40.0,other,hawaii,05/01/2017,,,tayana,2005.0,fiberglass,64.0,monohull sail," $ 640,000.00 ",inboard,1.0,hi,honolulu,96815,2020
+1351,nypcaf001453,new,12/14/2020,yes,40.0,retired,texas,10/02/2017,,,hunter,1998.0,fiberglass,41.0,monohull sail," $ 100,000.00 ",inboard,1.0,nayarit,mexico,,2020
+1396,nypcaf000637-1,renl,12/14/2020,yes,55.0,retired,california,12/01/2017,,,other,1989.0,fiberglass,36.0,monohull sail," $ 100,000.00 ",inboard,1.0,ca,marin,94968,2020
+1912,nypcaf000858-1,renl,12/14/2020,not reported,10.0,self employed,texas,03/21/2018,,,other,2006.0,fiberglass,42.0,express cruiser," $ 160,000.00 ",i/o,2.0,guerrero,mexico,,2020
+2030,nypcaf000989-1,renl,12/14/2020,yes,50.0,not reported,california,04/17/2018,,,other,1984.0,wood,48.0,monohull sail," $ 575,000.00 ",inboard,1.0,ca,san diego,92106,2020
+2131,nypcah001020-1,renl,12/14/2020,yes,40.0,other,hawaii,05/01/2018,,,tayana,2005.0,fiberglass,64.0,monohull sail," $ 640,000.00 ",inboard,1.0,hi,honolulu,96815,2020
+2985,nypcaf001453-1,canc,12/14/2020,yes,40.0,retired,texas,10/02/2018,,03/01/2019,hunter,1998.0,fiberglass,41.0,monohull sail," $ 100,000.00 ",inboard,1.0,nayarit,mexico,,2020
+3261,nypcaf002229,new,02/21/9605,yes,25.0,other,california,10/29/2018,,,other,2015.0,fiberglass,40.0,multihull sail," $ 450,000.00 ",inboard,2.0,nayarit,mexico,63732,9605
+3406,nypcaf002257,new,02/16/2036,yes,55.0,other,washington,11/17/2018,,,other,2018.0,fiberglass,41.0,express cruiser," $ 550,000.00 ",i/o,2.0,jalisco,mexico,,2036
+3885,nypcaf000858-2,renl,12/14/2020,not reported,10.0,self employed,texas,03/21/2019,,,other,2006.0,fiberglass,42.0,express cruiser," $ 160,000.00 ",i/o,2.0,guerrero,mexico,,2020
+4007,nypcaf000989-2,renl,12/14/2020,yes,50.0,not reported,california,04/17/2019,,,other,1984.0,wood,48.0,monohull sail," $ 575,000.00 ",inboard,1.0,ca,san diego,92106,2020
+4115,nypcaf002412,new,01/11/9407,yes,45.0,retired,florida,04/09/2019,,,riviera,2012.0,fiberglass,52.0,motoryacht," $ 730,000.00 ",inboard,2.0,fl,martin,34997,9407
+4183,nypcah001020-2,renl,12/14/2020,yes,40.0,other,hawaii,05/01/2019,,,tayana,2005.0,fiberglass,64.0,monohull sail," $ 640,000.00 ",inboard,1.0,hi,honolulu,96815,2020
+5030,nypcaf002229-1,renl,02/21/9605,yes,25.0,other,california,10/29/2019,,,other,2015.0,fiberglass,40.0,multihull sail," $ 450,000.00 ",inboard,2.0,ca,los angeles,90731,9605
+5105,nypcaf002257-1,renl,02/16/2036,yes,55.0,other,washington,11/17/2019,,,other,2018.0,fiberglass,41.0,express cruiser," $ 550,000.00 ",i/o,2.0,jalisco,mexico,,2036
+5548,nypcaf000858-3,renl,12/14/2020,not reported,10.0,self employed,texas,03/21/2020,,,other,2006.0,fiberglass,42.0,express cruiser," $ 160,000.00 ",i/o,2.0,guerrero,mexico,,2020
+5668,nypcaf000989-3,renl,12/14/2020,yes,50.0,not reported,california,04/17/2020,,,other,1984.0,wood,48.0,monohull sail," $ 575,000.00 ",inboard,1.0,ca,san diego,92106,2020
+5734,nypcaf002412-1,renl,01/11/9407,yes,45.0,retired,florida,04/09/2020,,,riviera,2012.0,fiberglass,52.0,motoryacht," $ 730,000.00 ",inboard,2.0,fl,martin,34997,9407
+5766,nypcah001020-3,renl,12/14/2020,yes,40.0,other,hawaii,05/01/2020,,,tayana,2005.0,fiberglass,64.0,monohull sail," $ 640,000.00 ",inboard,1.0,hi,honolulu,96815,2020
+7504,nypcah001020-3,endt,12/14/2020,yes,40.0,other,hawaii,05/01/2020,05/01/2020,,tayana,2005.0,fiberglass,64.0,monohull sail," $ 640,000.00 ",inboard,1.0,hi,honolulu,96815,2020
+7596,nypcah001020-3,endt,12/14/2020,yes,40.0,other,hawaii,05/01/2020,09/23/2020,,tayana,2005.0,fiberglass,64.0,monohull sail," $ 550,000.00 ",inboard,1.0,hi,honolulu,96815,2020
