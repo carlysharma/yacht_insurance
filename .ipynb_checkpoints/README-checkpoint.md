@@ -22,7 +22,6 @@ Given our client has been in the yacht insurance industry for 40 years, he was o
 ### Datasets Used
 
 * `Claims_report.xlsx`: Client provided spreadsheet of claims from 2016-2020.
-  * Atmospheric carbon level data (from [NOAA/Mauna Loa Observatory](https://www.esrl.noaa.gov/gmd/dv/data/index.php?parameter_name=Carbon%2BDioxide&search=mauna+loa))
 * `NYP Bordereau Report - Total.xlsx - Bordereau Report.csv`: Client provided spreadsheet of all polcies and attributes from 2016-2020.
 * `combined.csv`: Cleaned and merged dataset of the two datasets provided.
 * `combined2.csv`: The combined dataset that was prerprocessed for modeling.
