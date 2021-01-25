@@ -5,7 +5,7 @@
 ### Problem Statement
 The insurance industry relies on data to inform premium costs for current and future clients. Yacht Insurance is a niche part of the industry historically known for being a profitable, yet small book of business within larger insurance portfolios (like commercial marine insurance). Because of its size and general dependability, its profitbility was often not thoroughly evaluated. However, more recently, there has been a trend to dive more deeply into past data to ensure yacht insurance can remain or become profitable. 
 
-This project looks at real world data from a yacht insurance broker based in the U.S. One dataset looks at all the claims that have occurred from 2016 - 2020. The other dataset includes all policies in the company's portfolio from the same date range along with various features about the boat and boat owner (like the builder of the boat or the age of the owner). This is binary classification problem and our models predicted whether or not a policy is likely to have a least one claim in five years. Because we were mostly interested in classifying claims (the minority class) we looked at recall as our metric. We tested Logistic Regression, K-Nearest Neighbors, Random Forest, and Extra Trees models with various combinations of over and undersampling.
+This project looks at real world data from a yacht insurance broker based in the U.S. One dataset looks at all the claims that have occurred from 2016 - 2020. The other dataset includes all policies in the company's portfolio from the same date range along with various features about the boat and boat owner (like the builder of the boat or the age of the owner). This is a binary classification problem and our models predicted whether or not a policy is likely to have a least one claim in five years. Because we were mostly interested in classifying claims (the minority class) we looked at recall as our metric. We tested Logistic Regression, K-Nearest Neighbors, Random Forest, and Extra Trees models with various combinations of over and undersampling.
 
 
 ---
@@ -31,13 +31,22 @@ Given our client has been in the yacht insurance industry for 40 years, he was o
 ### Data Dictionary
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
+|**New/Renl/Endt/Canc/Flat**|*object*|`combined.csv`|Whether or not a policy is new, a renewal, an endorsement, cancellation, or flat.|
+|**Married yes/no**|*object*|`combined.csv`|Whether or not the owner of the policy is married.|
+|**Years Exp.**|*float*|`combined.csv`|Self reported years of boating experience of the policy holder.|
+|**Occupation**|*object*|`combined.csv`|The occupation of the polcy holder.|
+|**Builder**|*object*|`combined.csv`|The builder/maker of the boat (aka the brand).|
+|**Year Built**|*float*|`combined.csv`|The year the boat was built.|
+|**Construction**|*object*|`combined.csv`|What material the boat was mdae out of.|
+|**Length**|*float*|`combined.csv`|The length of the boat in feet.|
+|**Hull Type**|*object*|`combined.csv`|If the boat is monohull, multihull, etc.|
+|**Hull Limit**|*float*|`combined.csv`|The cost of the boat in USD.|
+|**Power Type**|*object*|`combined.csv`|How the engines are configured (inboard, outboard, pod, i/o)
+|**# Engines**|*float*|`combined.csv`|How many engines the boat has.|
+|**Mooring County**|*object*|`combined.csv`|Which county the boat is kept/moored in.|
+|**num_claims**|*float*|`combined.csv`|How many claims a policy has.|
+|**Age**|*int*|`combined.csv`|How old the policy owner is.|
 |**policy_length**|*float*|`combined.csv`|How long someone has a policy. Subtracted from today's date if it is ongoing.|
-|**policy_length**|*float*|`combined.csv`|How long someone has a policy. Subtracted from today's date if it is ongoing.|
-|**policy_length**|*float*|`combined.csv`|How long someone has a policy. Subtracted from today's date if it is ongoing.|
-|**policy_length**|*float*|`combined.csv`|How long someone has a policy. Subtracted from today's date if it is ongoing.|
-|**policy_length**|*float*|`combined.csv`|How long someone has a policy. Subtracted from today's date if it is ongoing.|
-|**policy_length**|*float*|`combined.csv`|How long someone has a policy. Subtracted from today's date if it is ongoing.|
-
 
 
 ---
